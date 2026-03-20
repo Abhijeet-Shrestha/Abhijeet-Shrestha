@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | 🚀 Undergraduate Student | 🌍 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+C%23;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Systems;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+C%23;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Project;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 🔹 **Pathfinder** – Smart navigation / system project  
 🔹 **Technova IT Company Project** – Company-based system development  
 🔹 **Banking System (Python)** – Core banking simulation with authentication & transaction handling  
-
+🔹 **Employee System (Python)** – A console-based with different user roles (Boss, Manager, Employee) 
 ---
 
 
