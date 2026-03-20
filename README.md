@@ -40,14 +40,24 @@
 
 ## 🚀 Projects
 
-🔹 **Pathfinder** – Smart navigation / system project  
-🔹 **Technova IT Company Project** – Company-based system development  
-🔹 **Banking System (Python)** – Core banking simulation with authentication & transaction handling  
-🔹 **Employee System (Python)** – A console-based with different user roles (Boss, Manager, Employee) 
----
+### 🔹 Pathfinder
+A smart navigation system designed to optimize routes and improve travel efficiency.
 
+### 🔹 Technova IT Company Project
+A company-based system developed to manage operations, users, and workflow efficiently.
 
----
+### 🔹 Banking System (Python)
+A core banking simulation featuring:
+- Secure user authentication  
+- Deposit, withdrawal, and fund transfer  
+- Data handling using Python  
+
+### 🔹 Employee Management System (Python)
+A console-based application with role-based access:
+- Boss, Manager, and Employee roles  
+- Employee record management  
+- Search, add, update, and delete functionality  
+
 
 ## 🐍 Contribution Snake Animation
 
