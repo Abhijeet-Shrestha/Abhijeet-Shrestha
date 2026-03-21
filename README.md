@@ -62,9 +62,8 @@ A console-based application with role-based access:
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Abhijeet-Shrestha/Abhijeet-Shrestha/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
