@@ -11,7 +11,7 @@
 
 🎓 Undergraduate Student passionate about building scalable and real-world software solutions.  
 💼 Aspiring **Full Stack Developer** with strong backend and frontend skills.  
-🚀 Experienced in developing web applications.
+🚀 Experienced in developing web applications.  
 🌱 Constantly learning and exploring modern technologies.  
 
 ---
