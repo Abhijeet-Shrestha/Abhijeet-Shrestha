@@ -77,3 +77,4 @@ A console-based application with role-based access:
 
 ## ⚡ Fun Fact
 > I love turning ideas into fully functional web applications and solving real-world problems with code 🚀
+> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=footer"/>
